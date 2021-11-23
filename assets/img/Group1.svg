@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="913" height="117" viewBox="0 0 913 117">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        font-size: 1347.304px;
+        fill: #f38c12;
+        font-family: Forte;
+      }
+
+      .cls-2 {
+        font-family: "Bauhaus 93";
+      }
+
+      .cls-3 {
+        fill: #827b00;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="383" y="37" width="110" height="105" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#e69d0f"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feGaussianBlur result="blur" stdDeviation="2.667" in="SourceAlpha"/>
+      <feColorMatrix result="color" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+      <feColorMatrix result="color-2" values="0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0"/>
+      <feColorMatrix result="color-3" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+      <feComponentTransfer result="comp" color-interpolation-filters="sRGB">
+        <feFuncR type="table" tableValues="1 0"/>
+        <feFuncG type="table" tableValues="1 0"/>
+        <feFuncB type="table" tableValues="1 0"/>
+      </feComponentTransfer>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-2" mode="screen" in2="blend"/>
+    </filter>
+  </defs>
+  <text id="Micr_" data-name="Micr   " class="cls-1" transform="translate(-3.978 94.281) scale(0.125 0.091)">Micr   </text>
+  <text id="netTz" class="cls-1" transform="translate(477.5 101.737) scale(0.142 0.113)">net<tspan class="cls-2">Tz</tspan></text>
+  <path class="cls-3" d="M437.992,37.012c-30.329,0-55,23.546-55,52.488s24.673,52.488,55,52.488,55-23.547,55-52.488S468.32,37.012,437.992,37.012Zm2.522,54.9H462.13a77.953,77.953,0,0,1-3.387,20.633H440.514V91.907Zm21.616-4.815H440.514V66.51h18.244A77.951,77.951,0,0,1,462.13,87.093Zm25.748,0H467.014a82.653,82.653,0,0,0-3.177-20.583h17.894A45.72,45.72,0,0,1,487.878,87.093Zm-9.223-25.239H462.337a74.185,74.185,0,0,0-9.158-17.768A50.084,50.084,0,0,1,478.655,61.854Zm-32.8-19.431a68.34,68.34,0,0,1,11.293,19.431H440.514V41.9A52.767,52.767,0,0,1,445.859,42.423Zm-10.39-.531V61.854H417.627a68.42,68.42,0,0,1,11.1-19.191A52.776,52.776,0,0,1,435.469,41.892Zm-14.224,2.7a74.307,74.307,0,0,0-8.812,17.263h-15.1A50.009,50.009,0,0,1,421.245,44.591Zm-27,21.919h16.692a82.656,82.656,0,0,0-3.181,20.583H388.106A45.73,45.73,0,0,1,394.25,66.51Zm-6.144,25.4h19.655a82.635,82.635,0,0,0,3.195,20.633H394.281A45.721,45.721,0,0,1,388.106,91.907Zm9.265,25.289H412.45a74.335,74.335,0,0,0,8.79,17.211A50.009,50.009,0,0,1,397.371,117.2Zm38.1,19.911a52.823,52.823,0,0,1-6.748-.77A68.412,68.412,0,0,1,417.646,117.2h17.823v19.911Zm0-24.567H416.033a77.912,77.912,0,0,1-3.387-20.633h22.823V112.54ZM412.646,87.093a77.907,77.907,0,0,1,3.372-20.583h19.451V87.093H412.646ZM440.514,137.1V117.2h16.618a68.342,68.342,0,0,1-11.27,19.38A52.769,52.769,0,0,1,440.514,137.1Zm12.666-2.191a74.176,74.176,0,0,0,9.138-17.717h16.3A50.087,50.087,0,0,1,453.18,134.913ZM481.7,112.54H463.821a82.629,82.629,0,0,0,3.193-20.633h20.864A45.725,45.725,0,0,1,481.7,112.54Z" transform="translate(-29 -25)"/>
+</svg>
